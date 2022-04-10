@@ -1,6 +1,6 @@
 # Credicxo_Task-API
-This repo is for showcasing submission task of Credicxo Tech Pvt Ltd's internship
-
+This repo is for showcasing submission task of Credicxo Tech Pvt Ltd's internship.  
+[![wakatime](https://wakatime.com/badge/user/7293504b-e51f-41db-ba94-4c0911fe9e63/project/6dde8147-cac2-44c5-a816-16927c14821d.svg)](https://wakatime.com/badge/user/7293504b-e51f-41db-ba94-4c0911fe9e63/project/6dde8147-cac2-44c5-a816-16927c14821d)
 ___
 
 ## Initalization + Execution Steps:
